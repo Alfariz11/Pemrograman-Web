@@ -1,2 +1,10 @@
-# Pemrograman-Web
-Ini adalah repostiory saya tentang mata kuliah pemrograman Web
+
+## DATA DIRI
+
+ - Rizki Alfariz Ramadhan
+ - 122140061
+ - Pemrograman Web (RA)
+
+
+Ini adalah repository saya untuk mata kuliah Pemrograman Web
+
